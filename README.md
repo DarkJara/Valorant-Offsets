@@ -42,8 +42,8 @@ Dumped By Dark With Love <3
 	uint64_t camera_controller = 0x440;			// world > game_instance > localplayers_array[0] > playercontroller > camera_controller
 
 	// camera
-	uint64_t camera_position = 0x1240;			// world > game_instance > localplayers_array[0] > playercontroller > camera_controller > camera_position
-	uint64_t camera_rotation = 0x124C;			// world > game_instance > localplayers_array[0] > playercontroller > camera_controller > camera_rotation
+	uint64_t camera_position = 0x1240;			
+	uint64_t camera_rotation = 0x124C;			
 	uint64_t camera_fov = 0x1258;				// world > game_instance > localplayers_array[0] > playercontroller > camera_controller > camera_fov
 	uint64_t camera_manager = 0x478;			// world > game_instance > localplayers_array[0] > playercontroller > camera_manager
 
@@ -66,4 +66,4 @@ Dumped By Dark With Love <3
 	uint64_t component_to_world = 0x250;			// world > persistent_level > aactor > mesh > component_to_world
 	uint64_t bone_array = 0x558;				// world > persistent_level > aactor > mesh > bone_array
 	uint64_t bone_count = 0x560;				// world > persistent_level > aactor > mesh > bone_array + (index * bone_count)
-```}
+}
