@@ -9,7 +9,7 @@ Create A New Header File Called, offsets.h and paste there the offsets
 
 Dumped By Dark With Love <3
 
-#Offsets
+# Offsets
 
 
 namespace offsets {
