@@ -11,7 +11,9 @@ Dumped By Dark With Love <3
 
 #Offsets
 
+
 namespace offsets {
+
 	// global
 	uint64_t uworld_key = 0x877E4B8; 
 	uint64_t uworld_state = 0x877E480;
