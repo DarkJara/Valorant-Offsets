@@ -5,5 +5,6 @@
 Valorant Offsets That Are Always Updated <3
 
 # How To Use ?
-Create A New Header File Called, offsets.h and paste there the offset
+Create A New Header File Called, offsets.h and paste there the offsets
+
 Dumped By Dark With Love <3
